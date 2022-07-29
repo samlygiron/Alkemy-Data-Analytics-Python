@@ -1,5 +1,5 @@
 # Challenge-Data-Analytics-Python
-Proyecto de consumo, procesamiento y actualización de datos desde datos públicos en formatos abiertos
+Proyecto de consumo, procesamiento y actualización desde datos públicos en formatos abiertos
 
 1.  Clonar este repositorio: git clone https://github.com/samlygiron/Alkemy-Data-Analytics-Python</br>
 2.  Crear y activar un entorno virtual con python3 desde la consola , para windows:</br> python3 -m venv venv_alkemy </br> venv_alkemy/scripts/ </br> ./activate.bat</br>
