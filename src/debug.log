@@ -1,0 +1,9 @@
+2022-07-28 20:23:13,094: INFO [1652821476.py:18] Descargando archivos fuente
+2022-07-28 20:23:19,833: INFO [scripts.py:63] Se realizó la descarga de los archivos correctamente
+2022-07-28 20:23:21,475: INFO [scripts.py:63] Se realizó la descarga de los archivos correctamente
+2022-07-28 20:23:22,482: INFO [scripts.py:63] Se realizó la descarga de los archivos correctamente
+2022-07-28 20:23:22,482: INFO [1652821476.py:24] Procesando datos y creando tablas
+2022-07-28 20:23:22,871: INFO [scripts.py:176] Los datos fueron procesados con éxito
+2022-07-28 20:23:22,872: INFO [1652821476.py:27] Conectando con base de datos y subiendo tablas
+2022-07-28 20:23:25,865: INFO [scripts.py:220] Se actualizó la base de datos con éxito
+2022-07-28 20:23:25,866: INFO [1652821476.py:30] Ejecución finalizada con éxito
